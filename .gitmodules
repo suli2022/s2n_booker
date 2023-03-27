@@ -1,0 +1,6 @@
+[submodule "s2n_bookerapi"]
+	path = s2n_bookerapi
+	url = https://github.com/suli2022/s2n_bookerapi.git
+[submodule "s2n_bookermobil"]
+	path = s2n_bookermobil
+	url = https://github.com/suli2022/s2n_bookermobil.git
